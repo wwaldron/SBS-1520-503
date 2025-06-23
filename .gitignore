@@ -1,6 +1,7 @@
 # AstroPhysics
 *.fits
 *.fits.gz
+*.fits.fz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
